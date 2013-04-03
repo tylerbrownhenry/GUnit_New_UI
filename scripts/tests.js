@@ -38,7 +38,7 @@
     }   
   }
 
-
+console.log('okay');
 
 // test( "deepEqual test", function() {
 //   var obj = { foo: "bar" };
